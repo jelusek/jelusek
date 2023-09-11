@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jelusek
 - 👀 I’m interested in Logistic, IT and Music
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, SQL, Data Science and Frontend 
 
 <!---
 jelusek/jelusek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
